@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username: ctlangevin
+account: ctlangevin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13564004
+bundleId: 9491830
+url: https://ctlangevin.shinyapps.io/shinyapp/
+version: 1
